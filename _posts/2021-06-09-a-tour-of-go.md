@@ -1,6 +1,7 @@
-# A Tour of Go
-
-## Notes
+---
+title: "《a tour of go》笔记"
+date: 2021-06-09
+---
 
 ### go declaration syntax
 
